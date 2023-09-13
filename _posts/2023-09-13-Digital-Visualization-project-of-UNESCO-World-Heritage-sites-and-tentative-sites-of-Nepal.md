@@ -5,7 +5,7 @@ date:   2023-09-13 T21:25:52-05:00
 author: Dinesh Maharjan
 categories: Jekyll
 tags:	jekyll welcome
-cover:  "/assets/lumbini.jpg"
+cover:  "/assets/Lumbini.jpg"
 ---
 ### Digital visualization project of UNESCO World Heritage sites and tentative sites of Nepal.
 
