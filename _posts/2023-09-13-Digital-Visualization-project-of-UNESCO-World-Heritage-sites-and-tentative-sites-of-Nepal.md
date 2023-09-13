@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Digital visualization project of UNESCO World Heritage sites and tentative sites of Nepal"
+date:   2023-09-13 T21:25:52-05:00
+author: Dinesh Maharjan
+categories: Jekyll
+tags:	jekyll welcome
+cover:  "/assets/lumbini.jpg"
+---
 ### Digital visualization project of UNESCO World Heritage sites and tentative sites of Nepal.
 
 
