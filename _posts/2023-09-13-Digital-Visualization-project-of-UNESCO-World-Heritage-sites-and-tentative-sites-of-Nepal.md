@@ -73,7 +73,8 @@ Then write a commit message and commit changes.
 
 ### Map with location and picture
 ![](https://github.com/Din977/world-heritage/blob/master/assets/map.jpg?raw=true)
-![](https://github.com/Din977/world-heritage/blob/master/assets/photo in map.jpg?raw=true)
+
+![](https://github.com/Din977/world-heritage/blob/master/assets/mapphoto.jpg?raw=true) 
 
 
 ## About project experience
