@@ -14,7 +14,7 @@ This project is a trial project as a fulfillment of the digital methods in Relig
 As a project, I have selected a digital visualization of UNESCO World Heritage Sites and a Tentative sites list in Nepal.  I would like to display digital photo galleries of sites with descriptions and their Locations on a map. I selected Collection Builder, which was a perfect match for my project, where I can display photos as well as the exact location of the heritage site on the map.
 
 ### Step
-           **To start collection builder**, we have to create an account in GitHub which is free software. After signing up, it has to be verified with your email.
+**To start collection builder**, we have to create an account in GitHub which is free software. After signing up, it has to be verified with your email.
 ### Step
 **Create a new repository ** Create a free GitHub account - YouTube
 By clicking use this template and then create a new repository drawdown option.
