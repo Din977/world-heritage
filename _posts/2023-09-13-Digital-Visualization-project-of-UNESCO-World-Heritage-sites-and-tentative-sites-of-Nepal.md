@@ -69,11 +69,11 @@ Then write a commit message and commit changes.
 ![](https://github.com/Din977/world-heritage/blob/master/assets/homepage.jpg?raw=true)
 
 ### Photo Gallery
-![](https://github.com/Din977/world-heritage/blob/master/assets/gallary.jpg?raw=true)
+![](https://github.com/Din977/world-heritage/blob/master/assets/Gallary.jpg?raw=true)
 
 ### Map with location and picture
 ![](https://github.com/Din977/world-heritage/blob/master/assets/map.jpg?raw=true)
-![](https://github.com/Din977/world-heritage/blob/master/assets/map with location.jpg?raw=true)
+![](https://github.com/Din977/world-heritage/blob/master/assets/photo in map.jpg?raw=true)
 
 
 ## About project experience
