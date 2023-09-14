@@ -19,7 +19,7 @@ As a project, I have selected a digital visualization of UNESCO World Heritage S
 **Create a new repository ** Create a free GitHub account - YouTube
 By clicking use this template and then create a new repository drawdown option.
 
-![](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/create.jpg?raw=true)
+![](https://github.com/Din977/world-heritage/blob/master/assets/create.jpg?raw=true)
 
 
 The repository must be public, then give the repository name (the name must be lowercase without spaces.  click Create Repository from the template.
@@ -28,7 +28,7 @@ The repository must be public, then give the repository name (the name must be l
 **Prepare metadata **
 Make a copy of this Google Sheet of demo metadata.
 Download the spreadsheet as a CSV file by clicking File → Download → Comma Separated Values (.csv)
-![](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/csv.jpg?raw=true)
+![](https://github.com/Din977/world-heritage/blob/master/assets/csv.jpg?raw=true)
 Locate the CSV file on your computer (in the download folder).
 Without opening the CSV file, rename it using all lowercase letters, no spaces, and no special characters.
 ### Step
@@ -66,14 +66,14 @@ Then write a commit message and commit changes.
 
 ## Visualization results
 ### Home page
-![](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/homepage.jpg?raw=true)
+![](https://github.com/Din977/world-heritage/blob/master/assets/homepage.jpg?raw=true)
 
 ### Photo Gallery
-![](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/gallary.jpg?raw=true)
+![](https://github.com/Din977/world-heritage/blob/master/assets/gallary.jpg?raw=true)
 
 ### Map with location and picture
-![](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/map.jpg?raw=true)
-![](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/map with location.jpg?raw=true)
+![](https://github.com/Din977/world-heritage/blob/master/assets/map.jpg?raw=true)
+![](https://github.com/Din977/world-heritage/blob/master/assets/map with location.jpg?raw=true)
 
 
 ## About project experience
