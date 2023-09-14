@@ -19,11 +19,12 @@ As a project, I have selected a digital visualization of UNESCO World Heritage S
 **Create a new repository ** Create a free GitHub account - YouTube
 By clicking use this template and then create a new repository drawdown option.
 
-![](https://github.com/Din977/world-heritage/blob/master/assets/create.jpg?raw=true)
+![](https://github.com/Din977/world-heritage/blob/master/assets/webid.jpg?raw=true)
 
 
 The repository must be public, then give the repository name (the name must be lowercase without spaces.  click Create Repository from the template.
-![](https://github.com/Din977/world-heritage/blob/master/assets/webid.jpg?raw=true)
+![](https://github.com/Din977/world-heritage/blob/master/assets/create.jpg?raw=true)
+
 ### Step
 **Prepare metadata **
 Make a copy of this Google Sheet of demo metadata.
