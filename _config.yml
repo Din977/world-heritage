@@ -14,11 +14,11 @@ subtitle: "A digital gallary of heritage site in Nepal"
 email: dineshmaharjan17@gmail.com
 name: Dinesh Maharjan
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Digital tools for studying Religion.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "/blog"
+baseurl: ""
 url: https://din977.github.io/world-heritage
 cover: "/assets/Lumbini.jpg"
 logo: "/assets/logo.png"
