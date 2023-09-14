@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: ""
 url: https://din977.github.io/world-heritage
-cover: "/assets/Lumbini.jpg"
+cover: "https://din977.github.io/world-heritage/assets/Lumbini.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
