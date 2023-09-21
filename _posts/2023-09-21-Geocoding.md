@@ -4,13 +4,14 @@ title:  "Geocoding"
 date:   2023-09-21 T21:25
 author: Dinesh Maharjan
 categories: latest updates
-tags:	jekyll welcome
+tags:	digital tools
 cover: "![](https://github.com/Din977/world-heritage/blob/master/assets/Lumbini.jpg?raw=true)"
 ---
 ## Geocoding
 Identify and spot the geographical location and address through particular denomination with API codes in the maps. It is useful to locate a place with caption or with detail.
 
  **task**
+
 Find out number of synagogues in Germany. 
 1.identify their address, 
 2. Give that information 
@@ -18,7 +19,10 @@ Find out number of synagogues in Germany.
 
 
 **Methods**
+
 1. Nominatim 
 Search location with address or name. Then, app with provides all detail about location with latitude and longitude address. 
- 2. OpenRefine (e.g.  a set of data was provided on synagogue in csv format), and then uploaded to Palladio.
+
+2. OpenRefine (e.g.  a set of data was provided on synagogue in csv format), and then uploaded to Palladio.
+
 3. Palladio analyses data and visualize data to maps. 
