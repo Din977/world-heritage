@@ -13,6 +13,8 @@ To conduct the analysis
  OpenRefine 
  Published books and editors
 Classified the data using the coding method
+![](https://github.com/Din977/world-heritage/blob/master/assets/networkcode.jpg?raw=true)
 
 **Visualization process**
 Palladio (Can make customization according to requirements)
+![](https://github.com/Din977/world-heritage/blob/master/assets/visualization.jpg?raw=true)
