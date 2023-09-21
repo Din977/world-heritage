@@ -4,8 +4,8 @@ title:  "Openrefine"
 date:   2023-09-21 T21:25
 author: Dinesh Maharjan
 categories: latest updates
-tags:	jekyll welcome
-cover: "![](https://github.com/Din977/world-heritage/blob/master/assets/Lumbini.jpg?raw=true)"
+tags:	Digital tools
+cover: "/assets/Lumbini.jpg"
 ---
 ## Openrefine 
 Openrefine is a web-based application that helps to organize unstructured data: cleaning it, changing its formats and making data simple to use for the researcher.
