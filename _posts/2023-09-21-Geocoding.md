@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Network Analysis"
+title:  "Geocoding"
 date:   2023-09-21 T21:25
 author: Dinesh Maharjan
 categories: latest updates
