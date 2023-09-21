@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Network Analysis"
+date:   2023-09-21 T21:25
+author: Dinesh Maharjan
+categories: latest updates
+tags:	jekyll welcome
+cover: "![](https://github.com/Din977/world-heritage/blob/master/assets/Lumbini.jpg?raw=true)"
+---
 ## Geocoding
 Identify and spot the geographical location and address through particular denomination with API codes in the maps. It is useful to locate a place with caption or with detail.
 
