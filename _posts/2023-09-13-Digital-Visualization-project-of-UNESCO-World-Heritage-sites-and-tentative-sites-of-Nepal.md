@@ -5,7 +5,7 @@ date:   2023-09-13 T21:25
 author: Dinesh Maharjan
 categories: project
 tags:	Digital tools
-cover: "![](https://github.com/Din977/world-heritage/blob/master/assets/Lumbini.jpg?raw=true)"
+cover: "/assets/Lumbini.jpg"
 ---
 ### Digital visualization project of UNESCO World Heritage sites and tentative sites of Nepal.
 
