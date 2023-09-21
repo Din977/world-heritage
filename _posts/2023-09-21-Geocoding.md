@@ -1,5 +1,6 @@
 ## Geocoding
 Identify and spot the geographical location and address through particular denomination with API codes in the maps. It is useful to locate a place with caption or with detail.
+
 **task**
 Find out number of synagogues in Germany. 
 1.identify their address, 
