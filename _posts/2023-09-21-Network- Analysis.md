@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Network Analysis"
+date:   2023-09-21 T21:25
+author: Dinesh Maharjan
+categories: Jekyll
+tags:	jekyll welcome
+cover: "![](https://github.com/Din977/world-heritage/blob/master/assets/Lumbini.jpg?raw=true)"
+---
 ## Network Analysis
 
 Netwok analysis is a useful method to look connection,bond and relationship between nodes and entities.
