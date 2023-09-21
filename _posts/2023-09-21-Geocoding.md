@@ -5,7 +5,7 @@ date:   2023-09-21 T21:25
 author: Dinesh Maharjan
 categories: latest updates
 tags:	digital tools
-cover: "![](https://github.com/Din977/world-heritage/blob/master/assets/Lumbini.jpg?raw=true)"
+cover: "/assets/Lumbini.jpg"
 ---
 ## Geocoding
 Identify and spot the geographical location and address through particular denomination with API codes in the maps. It is useful to locate a place with caption or with detail.
@@ -13,6 +13,8 @@ Identify and spot the geographical location and address through particular denom
  **task**
 
 Find out number of synagogues in Germany. 
+
+
 1.identify their address, 
 2. Give that information 
 3. Visualize the synagogues on a map. 
